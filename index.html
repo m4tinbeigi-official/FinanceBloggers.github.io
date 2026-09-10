@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>رادار فایننس‌بلاگرها، کریپتو و اقتصاد ایران | FinanceBloggers IR</title>
+  <meta name="description" content="دایرکتوری و رتبه‌بندی تحلیل‌گران اقتصادی، مدرسان بازارهای مالی، کریپتو، بورس و سواد مالی در ایران">
+  
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- Font Awesome Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <!-- Vazirmatn Font -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/Vazirmatn-font-face.css">
+
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          fontFamily: {
+            sans: ['Vazirmatn', 'sans-serif'],
+          }
+        }
+      }
+    }
+  </script>
+
+  <style>
+    body {
+      font-family: 'Vazirmatn', sans-serif;
+      background-color: #060913;
+      color: #f1f5f9;
+      margin: 0;
+      padding: 0;
+    }
+    .glass-nav {
+      background: rgba(10, 15, 29, 0.85);
+      backdrop-filter: blur(16px);
+      border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+    }
+    .glass-box {
+      background: rgba(15, 23, 42, 0.7);
+      backdrop-filter: blur(12px);
+      border: 1px solid rgba(255, 255, 255, 0.07);
+    }
+    .blogger-card {
+      background: #0f172a;
+      border: 1px solid #1e293b;
+      transition: all 0.25s ease-in-out;
+    }
+    .blogger-card:hover {
+      border-color: #38bdf8;
+      transform: translateY(-3px);
+      box-shadow: 0 10px 25px -5px rgba(56, 189, 248, 0.15);
+    }
+  </style>
+</head>
+<body class="min-h-screen flex flex-col antialiased selection:bg-sky-500 selection:text-white">
+
+  <!-- Header -->
+  <header class="sticky top-0 z-50 glass-nav">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 h-20 flex items-center justify-between">
+      <div class="flex items-center gap-3">
+        <div class="w-11 h-11 rounded-xl bg-gradient-to-tr from-emerald-500 to-teal-500 flex items-center justify-center text-slate-950 font-black text-xl shadow-lg">
+          <i class="fa-solid fa-layer-group"></i>
+        </div>
+        <div>
+          <h1 class="text-xl font-black bg-gradient-to-r from-emerald-500 to-teal-500 bg-clip-text text-transparent">
+            FinanceBloggers IR
+          </h1>
+          <p class="text-xs text-slate-400">رصد برخط اقتصاد، بازارهای مالی و رمزارزها</p>
+        </div>
+      </div>
+      
+      <div class="flex items-center gap-3">
+        <a href="https://irblogger.github.io/" target="_blank" class="px-4 py-2 rounded-lg bg-sky-500 hover:bg-sky-400 text-slate-950 font-bold text-xs sm:text-sm shadow-md transition flex items-center gap-2">
+          <i class="fa-solid fa-house text-base"></i>
+          <span>هاب مرکزی IRBlogger</span>
+        </a>
+        <a href="https://github.com/m4tinbeigi-official/FinanceBloggers.github.io" target="_blank" class="p-2.5 rounded-lg bg-slate-800 hover:bg-slate-700 text-slate-300 transition flex items-center justify-center border border-slate-700">
+          <i class="fa-brands fa-github text-base"></i>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="py-10 px-4 max-w-7xl mx-auto w-full text-center">
+    <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-slate-900/90 border border-slate-800 text-sky-400 text-xs font-semibold mb-4">
+      <span class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
+      دایرکتوری رسمی و آزاد
+    </div>
+    <h2 class="text-2xl sm:text-4xl font-black text-white mb-3">
+      دایرکتوری و رتبه‌بندی تحلیل‌گران اقتصادی، مدرسان بازارهای مالی، کریپتو، بورس و سواد مالی در ایران
+    </h2>
+    <p class="text-slate-400 text-xs sm:text-sm max-w-2xl mx-auto mb-8 leading-relaxed">
+      تحلیل آماری، بررسی تخصص‌ها، سوابق و معرفی فعالان و چهره‌های برجسته این حوزه در ایران.
+    </p>
+
+    <!-- Search and Filter Bar -->
+    <div class="max-w-3xl mx-auto glass-box rounded-2xl p-3 sm:p-4 mb-8 shadow-xl">
+      <div class="flex flex-col sm:flex-row gap-3">
+        <div class="relative flex-1">
+          <i class="fa-solid fa-magnifying-glass absolute right-4 top-1/2 -translate-y-1/2 text-slate-500"></i>
+          <input type="text" id="searchInput" placeholder="جستجوی نام، آیدی، تخصص یا بیوگرافی..." class="w-full bg-slate-900/90 border border-slate-700/80 rounded-xl pr-11 pl-4 py-2.5 text-sm text-slate-200 focus:outline-none focus:border-sky-500 transition">
+        </div>
+      </div>
+
+      <!-- Categories -->
+      <div class="flex flex-wrap items-center justify-center gap-2 mt-4 pt-3 border-t border-slate-800" id="categoryFilters">
+        <button class="cat-filter active px-3 py-1 rounded-lg text-xs font-medium bg-sky-500 text-slate-950 transition" data-cat="all">همه دسته‌ها</button>
+        <button class="cat-filter px-3 py-1 rounded-lg text-xs font-medium bg-slate-800 text-slate-300 hover:bg-slate-700 transition" data-cat="کریپتو و بلاکچین">کریپتو و بلاکچین</button>
+<button class="cat-filter px-3 py-1 rounded-lg text-xs font-medium bg-slate-800 text-slate-300 hover:bg-slate-700 transition" data-cat="اقتصاد کلان و سرمایه‌گذاری">اقتصاد کلان و سرمایه‌گذاری</button>
+<button class="cat-filter px-3 py-1 rounded-lg text-xs font-medium bg-slate-800 text-slate-300 hover:bg-slate-700 transition" data-cat="بورس و سهام">بورس و سهام</button>
+<button class="cat-filter px-3 py-1 rounded-lg text-xs font-medium bg-slate-800 text-slate-300 hover:bg-slate-700 transition" data-cat="سواد مالی و هوش مالی">سواد مالی و هوش مالی</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Bloggers Grid -->
+  <main class="max-w-7xl mx-auto px-4 sm:px-6 pb-20 flex-1 w-full">
+    <div class="flex items-center justify-between mb-6">
+      <h3 class="text-lg font-bold text-white flex items-center gap-2">
+        <i class="fa-solid fa-users text-sky-400"></i>
+        <span>لیست تولیدکنندگان محتوا و متخصصین</span>
+      </h3>
+      <span class="text-xs text-slate-400 bg-slate-800/80 px-3 py-1 rounded-lg border border-slate-700/50" id="countBadge">4 نفر ثبت شده</span>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6" id="bloggersGrid">
+      
+      <div class="blogger-card rounded-2xl p-5 flex flex-col justify-between" data-category="اقتصاد کلان و سرمایه‌گذاری">
+        <div>
+          <div class="flex items-start gap-3.5 mb-4">
+            <div class="relative">
+              <img src="https://api.dicebear.com/7.x/bottts/svg?seed=hosseini_finance" alt="محمد حسینی (بورس و اقتصاد)" class="w-14 h-14 rounded-xl object-cover bg-slate-800 border border-slate-700" onerror="this.src='https://api.dicebear.com/7.x/identicon/svg?seed=hosseini_finance'">
+              <span class="absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white flex items-center justify-center text-[9px] shadow" title="تایید شده"><i class="fa-solid fa-check"></i></span>
+            </div>
+            <div class="flex-1 min-w-0">
+              <h4 class="font-bold text-base text-white truncate">محمد حسینی (بورس و اقتصاد)</h4>
+              <p class="text-xs text-sky-400 font-medium truncate mt-0.5">تحلیل‌گر اقتصاد کلان و بازارهای موازی</p>
+              <span class="inline-block text-[11px] px-2 py-0.5 rounded bg-slate-800 text-slate-300 mt-1 border border-slate-700/50">اقتصاد کلان و سرمایه‌گذاری</span>
+            </div>
+          </div>
+
+          <p class="text-xs text-slate-400 leading-relaxed line-clamp-3 mb-4">
+            تحلیل روندهای تورمی، پیش‌بینی بازار طلا، مسکن و ارز، راهنمای مدیریت سرمایه.
+          </p>
+        </div>
+
+        <div class="pt-3 border-t border-slate-800/80 flex items-center justify-between text-xs">
+          <div class="flex items-center gap-3 text-slate-400">
+            <span><i class="fa-solid fa-users text-slate-500 ml-1"></i>920K</span>
+            <span><i class="fa-solid fa-chart-line text-emerald-400 ml-1"></i>4.1%</span>
+          </div>
+          <a href="https://instagram.com/hosseini_finance" target="_blank" rel="noopener" class="text-sky-400 hover:text-sky-300 font-mono font-medium flex items-center gap-1">
+            <span>@hosseini_finance</span>
+            <i class="fa-solid fa-arrow-up-right-from-square text-[10px]"></i>
+          </a>
+        </div>
+      </div>
+
+
+      <div class="blogger-card rounded-2xl p-5 flex flex-col justify-between" data-category="کریپتو و بلاکچین">
+        <div>
+          <div class="flex items-start gap-3.5 mb-4">
+            <div class="relative">
+              <img src="https://api.dicebear.com/7.x/bottts/svg?seed=crypto_arash" alt="کریپتو آرش (Crypto Arash)" class="w-14 h-14 rounded-xl object-cover bg-slate-800 border border-slate-700" onerror="this.src='https://api.dicebear.com/7.x/identicon/svg?seed=crypto_arash'">
+              <span class="absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white flex items-center justify-center text-[9px] shadow" title="تایید شده"><i class="fa-solid fa-check"></i></span>
+            </div>
+            <div class="flex-1 min-w-0">
+              <h4 class="font-bold text-base text-white truncate">کریپتو آرش (Crypto Arash)</h4>
+              <p class="text-xs text-sky-400 font-medium truncate mt-0.5">تحلیل‌گر تخصصی بیت‌کوین و آلت‌کوین‌ها</p>
+              <span class="inline-block text-[11px] px-2 py-0.5 rounded bg-slate-800 text-slate-300 mt-1 border border-slate-700/50">کریپتو و بلاکچین</span>
+            </div>
+          </div>
+
+          <p class="text-xs text-slate-400 leading-relaxed line-clamp-3 mb-4">
+            آموزش آن‌چین، تحلیل تکنیکال و فاندامنتال پروژه‌های بلاکچینی و دیفای.
+          </p>
+        </div>
+
+        <div class="pt-3 border-t border-slate-800/80 flex items-center justify-between text-xs">
+          <div class="flex items-center gap-3 text-slate-400">
+            <span><i class="fa-solid fa-users text-slate-500 ml-1"></i>650K</span>
+            <span><i class="fa-solid fa-chart-line text-emerald-400 ml-1"></i>5.4%</span>
+          </div>
+          <a href="https://instagram.com/crypto_arash" target="_blank" rel="noopener" class="text-sky-400 hover:text-sky-300 font-mono font-medium flex items-center gap-1">
+            <span>@crypto_arash</span>
+            <i class="fa-solid fa-arrow-up-right-from-square text-[10px]"></i>
+          </a>
+        </div>
+      </div>
+
+
+      <div class="blogger-card rounded-2xl p-5 flex flex-col justify-between" data-category="بورس و سهام">
+        <div>
+          <div class="flex items-start gap-3.5 mb-4">
+            <div class="relative">
+              <img src="https://api.dicebear.com/7.x/bottts/svg?seed=khanaki_finance" alt="رضا خانکی (تحلیلگر بورس)" class="w-14 h-14 rounded-xl object-cover bg-slate-800 border border-slate-700" onerror="this.src='https://api.dicebear.com/7.x/identicon/svg?seed=khanaki_finance'">
+              <span class="absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white flex items-center justify-center text-[9px] shadow" title="تایید شده"><i class="fa-solid fa-check"></i></span>
+            </div>
+            <div class="flex-1 min-w-0">
+              <h4 class="font-bold text-base text-white truncate">رضا خانکی (تحلیلگر بورس)</h4>
+              <p class="text-xs text-sky-400 font-medium truncate mt-0.5">کارشناس ارشد بازار سرمایه و بورس</p>
+              <span class="inline-block text-[11px] px-2 py-0.5 rounded bg-slate-800 text-slate-300 mt-1 border border-slate-700/50">بورس و سهام</span>
+            </div>
+          </div>
+
+          <p class="text-xs text-slate-400 leading-relaxed line-clamp-3 mb-4">
+            تحلیل بنیادی صنایع بورسی، گزارش مجامع و استراتژی‌های پرتفوی سهام.
+          </p>
+        </div>
+
+        <div class="pt-3 border-t border-slate-800/80 flex items-center justify-between text-xs">
+          <div class="flex items-center gap-3 text-slate-400">
+            <span><i class="fa-solid fa-users text-slate-500 ml-1"></i>410K</span>
+            <span><i class="fa-solid fa-chart-line text-emerald-400 ml-1"></i>3.9%</span>
+          </div>
+          <a href="https://instagram.com/khanaki_finance" target="_blank" rel="noopener" class="text-sky-400 hover:text-sky-300 font-mono font-medium flex items-center gap-1">
+            <span>@khanaki_finance</span>
+            <i class="fa-solid fa-arrow-up-right-from-square text-[10px]"></i>
+          </a>
+        </div>
+      </div>
+
+
+      <div class="blogger-card rounded-2xl p-5 flex flex-col justify-between" data-category="سواد مالی و هوش مالی">
+        <div>
+          <div class="flex items-start gap-3.5 mb-4">
+            <div class="relative">
+              <img src="https://api.dicebear.com/7.x/bottts/svg?seed=money_smart" alt="سواد مالی برای همه" class="w-14 h-14 rounded-xl object-cover bg-slate-800 border border-slate-700" onerror="this.src='https://api.dicebear.com/7.x/identicon/svg?seed=money_smart_fa'">
+              <span class="absolute -bottom-1 -right-1 w-4 h-4 rounded-full bg-sky-500 text-white flex items-center justify-center text-[9px] shadow" title="تایید شده"><i class="fa-solid fa-check"></i></span>
+            </div>
+            <div class="flex-1 min-w-0">
+              <h4 class="font-bold text-base text-white truncate">سواد مالی برای همه</h4>
+              <p class="text-xs text-sky-400 font-medium truncate mt-0.5">آموزش هوش مالی و مدیریت دخل و خرج</p>
+              <span class="inline-block text-[11px] px-2 py-0.5 rounded bg-slate-800 text-slate-300 mt-1 border border-slate-700/50">سواد مالی و هوش مالی</span>
+            </div>
+          </div>
+
+          <p class="text-xs text-slate-400 leading-relaxed line-clamp-3 mb-4">
+            آموزش بودجه‌بندی، پس‌انداز هوشمند، رهایی از بدهی و اصول پایه‌ای ثروت‌سازی.
+          </p>
+        </div>
+
+        <div class="pt-3 border-t border-slate-800/80 flex items-center justify-between text-xs">
+          <div class="flex items-center gap-3 text-slate-400">
+            <span><i class="fa-solid fa-users text-slate-500 ml-1"></i>530K</span>
+            <span><i class="fa-solid fa-chart-line text-emerald-400 ml-1"></i>6.0%</span>
+          </div>
+          <a href="https://instagram.com/money_smart_fa" target="_blank" rel="noopener" class="text-sky-400 hover:text-sky-300 font-mono font-medium flex items-center gap-1">
+            <span>@money_smart_fa</span>
+            <i class="fa-solid fa-arrow-up-right-from-square text-[10px]"></i>
+          </a>
+        </div>
+      </div>
+
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="border-t border-slate-800/80 py-8 bg-slate-950/60 mt-auto text-center text-xs text-slate-500">
+    <div class="max-w-7xl mx-auto px-4 flex flex-col sm:flex-row items-center justify-between gap-4">
+      <div>پروژه مستقل معرفی فعالان وب فارسی • FinanceBloggers IR</div>
+      <div class="flex items-center gap-4">
+        <a href="https://irblogger.github.io/" target="_blank" class="hover:text-slate-300 transition">IRBlogger Hub</a>
+        <a href="https://github.com/m4tinbeigi-official/FinanceBloggers.github.io" target="_blank" class="hover:text-slate-300 transition">مخزن گیت‌هاب</a>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    const searchInput = document.getElementById('searchInput');
+    const catFilters = document.querySelectorAll('.cat-filter');
+    const cards = document.querySelectorAll('.blogger-card');
+    const countBadge = document.getElementById('countBadge');
+
+    let currentCat = 'all';
+
+    function filterCards() {
+      const query = searchInput.value.toLowerCase().trim();
+      let visible = 0;
+
+      cards.forEach(card => {
+        const text = card.textContent.toLowerCase();
+        const cat = card.getAttribute('data-category');
+        const matchQuery = text.includes(query);
+        const matchCat = (currentCat === 'all' || cat === currentCat);
+
+        if (matchQuery && matchCat) {
+          card.style.display = 'flex';
+          visible++;
+        } else {
+          card.style.display = 'none';
+        }
+      });
+
+      countBadge.textContent = `${visible} نفر نمایش داده شده`;
+    }
+
+    searchInput.addEventListener('input', filterCards);
+
+    catFilters.forEach(btn => {
+      btn.addEventListener('click', () => {
+        catFilters.forEach(b => {
+          b.classList.remove('bg-sky-500', 'text-slate-950');
+          b.classList.add('bg-slate-800', 'text-slate-300');
+        });
+        btn.classList.add('bg-sky-500', 'text-slate-950');
+        btn.classList.remove('bg-slate-800', 'text-slate-300');
+        currentCat = btn.getAttribute('data-cat');
+        filterCards();
+      });
+    });
+  </script>
+</body>
+</html>
