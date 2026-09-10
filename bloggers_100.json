@@ -8,7 +8,7 @@
     "engagement": "4.1%",
     "role": "متخصص اقتصاد کلان و طلا",
     "verified": true,
-    "avatar": "avatars/hosseini_finance.svg"
+    "avatar": "avatars/hosseini_finance.jpg"
   },
   {
     "name": "کریپتو آرش (Crypto Arash)",
@@ -19,7 +19,7 @@
     "engagement": "5.4%",
     "role": "متخصص کریپتو و بلاکچین",
     "verified": true,
-    "avatar": "avatars/crypto_arash.svg"
+    "avatar": "avatars/crypto_arash.jpg"
   },
   {
     "name": "رضا خانکی (بورس ایران)",
@@ -30,7 +30,7 @@
     "engagement": "3.9%",
     "role": "متخصص بورس و سهام",
     "verified": true,
-    "avatar": "avatars/khanaki_finance.svg"
+    "avatar": "avatars/khanaki_finance.jpg"
   },
   {
     "name": "سواد مالی برای همه",
@@ -41,7 +41,7 @@
     "engagement": "6.0%",
     "role": "متخصص سواد مالی و هوش مالی",
     "verified": true,
-    "avatar": "avatars/money_smart_fa.svg"
+    "avatar": "avatars/money_smart_fa.jpg"
   },
   {
     "name": "آکادمی فارکس ایران",
@@ -52,7 +52,7 @@
     "engagement": "4.8%",
     "role": "متخصص فارکس و بازارهای جهانی",
     "verified": true,
-    "avatar": "avatars/forex_pro_ir.svg"
+    "avatar": "avatars/forex_pro_ir.jpg"
   },
   {
     "name": "سرمایه‌گذار هوشمند",
@@ -63,7 +63,7 @@
     "engagement": "5.2%",
     "role": "متخصص اقتصاد کلان و طلا",
     "verified": true,
-    "avatar": "avatars/smart_investor_fa.svg"
+    "avatar": "avatars/smart_investor_fa.jpg"
   },
   {
     "name": "پویا تریدر",
@@ -74,7 +74,7 @@
     "engagement": "3.9%",
     "role": "فعال حوزه کریپتو و بلاکچین",
     "verified": true,
-    "avatar": "avatars/finance_1_پویا_تریدر.svg"
+    "avatar": "avatars/finance_1_پویا_تریدر.jpg"
   },
   {
     "name": "مریم اقتصاد",
@@ -85,7 +85,7 @@
     "engagement": "4.5%",
     "role": "فعال حوزه اقتصاد کلان و طلا",
     "verified": false,
-    "avatar": "avatars/finance_2_مریم_اقتصاد.svg"
+    "avatar": "avatars/finance_2_مریم_اقتصاد.jpg"
   },
   {
     "name": "علی کریپتو",
@@ -96,7 +96,7 @@
     "engagement": "3.8%",
     "role": "فعال حوزه بورس و سهام",
     "verified": false,
-    "avatar": "avatars/finance_3_علی_کریپتو.svg"
+    "avatar": "avatars/finance_3_علی_کریپتو.jpg"
   },
   {
     "name": "سارا بورس",
@@ -107,7 +107,7 @@
     "engagement": "7.8%",
     "role": "فعال حوزه سواد مالی و هوش مالی",
     "verified": false,
-    "avatar": "avatars/finance_4_سارا_بورس.svg"
+    "avatar": "avatars/finance_4_سارا_بورس.jpg"
   },
   {
     "name": "دانیال آنچین",
@@ -118,7 +118,7 @@
     "engagement": "8.4%",
     "role": "فعال حوزه فارکس و بازارهای جهانی",
     "verified": true,
-    "avatar": "avatars/finance_5_دانیال_آنچین.svg"
+    "avatar": "avatars/finance_5_دانیال_آنچین.jpg"
   },
   {
     "name": "محسن طلا",
@@ -129,7 +129,7 @@
     "engagement": "5.5%",
     "role": "فعال حوزه سرمایه‌گذاری املاک",
     "verified": false,
-    "avatar": "avatars/finance_6_محسن_طلا.svg"
+    "avatar": "avatars/finance_6_محسن_طلا.jpg"
   },
   {
     "name": "نیما فارکس",
@@ -140,7 +140,7 @@
     "engagement": "4.1%",
     "role": "فعال حوزه کریپتو و بلاکچین",
     "verified": false,
-    "avatar": "avatars/finance_7_نیما_فارکس.svg"
+    "avatar": "avatars/finance_7_نیما_فارکس.jpg"
   },
   {
     "name": "فاطمه سرمایه",
@@ -151,7 +151,7 @@
     "engagement": "5.9%",
     "role": "فعال حوزه اقتصاد کلان و طلا",
     "verified": false,
-    "avatar": "avatars/finance_8_فاطمه_سرمایه.svg"
+    "avatar": "avatars/finance_8_فاطمه_سرمایه.jpg"
   },
   {
     "name": "امیر فاندامنتال",
@@ -162,7 +162,7 @@
     "engagement": "5.0%",
     "role": "فعال حوزه بورس و سهام",
     "verified": true,
-    "avatar": "avatars/finance_9_امیر_فاندامنتال.svg"
+    "avatar": "avatars/finance_9_امیر_فاندامنتال.jpg"
   },
   {
     "name": "الهام دارایی",
@@ -173,7 +173,7 @@
     "engagement": "8.1%",
     "role": "فعال حوزه سواد مالی و هوش مالی",
     "verified": false,
-    "avatar": "avatars/finance_10_الهام_دارایی.svg"
+    "avatar": "avatars/finance_10_الهام_دارایی.jpg"
   },
   {
     "name": "بهنام ترید",
@@ -184,7 +184,7 @@
     "engagement": "7.2%",
     "role": "فعال حوزه فارکس و بازارهای جهانی",
     "verified": false,
-    "avatar": "avatars/finance_11_بهنام_ترید.svg"
+    "avatar": "avatars/finance_11_بهنام_ترید.jpg"
   },
   {
     "name": "رویا فایننس",
@@ -195,7 +195,7 @@
     "engagement": "7.2%",
     "role": "فعال حوزه سرمایه‌گذاری املاک",
     "verified": false,
-    "avatar": "avatars/finance_12_رویا_فایننس.svg"
+    "avatar": "avatars/finance_12_رویا_فایننس.jpg"
   },
   {
     "name": "سعید والت",
@@ -206,7 +206,7 @@
     "engagement": "5.3%",
     "role": "فعال حوزه کریپتو و بلاکچین",
     "verified": true,
-    "avatar": "avatars/finance_13_سعید_والت.svg"
+    "avatar": "avatars/finance_13_سعید_والت.jpg"
   },
   {
     "name": "ندا سهام",
@@ -217,7 +217,7 @@
     "engagement": "6.3%",
     "role": "فعال حوزه اقتصاد کلان و طلا",
     "verified": false,
-    "avatar": "avatars/finance_14_ندا_سهام.svg"
+    "avatar": "avatars/finance_14_ندا_سهام.jpg"
   },
   {
     "name": "حسین ماکرو",
@@ -228,7 +228,7 @@
     "engagement": "4.4%",
     "role": "فعال حوزه بورس و سهام",
     "verified": false,
-    "avatar": "avatars/finance_15_حسین_ماکرو.svg"
+    "avatar": "avatars/finance_15_حسین_ماکرو.jpg"
   },
   {
     "name": "شیما هوش‌مالی",
@@ -239,7 +239,7 @@
     "engagement": "4.5%",
     "role": "فعال حوزه سواد مالی و هوش مالی",
     "verified": false,
-    "avatar": "avatars/finance_16_شیما_هوشمالی.svg"
+    "avatar": "avatars/finance_16_شیما_هوشمالی.jpg"
   },
   {
     "name": "کامران کریپتو",
@@ -250,7 +250,7 @@
     "engagement": "4.8%",
     "role": "فعال حوزه فارکس و بازارهای جهانی",
     "verified": true,
-    "avatar": "avatars/finance_17_کامران_کریپتو.svg"
+    "avatar": "avatars/finance_17_کامران_کریپتو.jpg"
   },
   {
     "name": "هستی اینوست",
@@ -261,7 +261,7 @@
     "engagement": "5.4%",
     "role": "فعال حوزه سرمایه‌گذاری املاک",
     "verified": false,
-    "avatar": "avatars/finance_18_هستی_اینوست.svg"
+    "avatar": "avatars/finance_18_هستی_اینوست.jpg"
   },
   {
     "name": "فرزاد چارت",
@@ -272,7 +272,7 @@
     "engagement": "5.5%",
     "role": "فعال حوزه کریپتو و بلاکچین",
     "verified": false,
-    "avatar": "avatars/finance_19_فرزاد_چارت.svg"
+    "avatar": "avatars/finance_19_فرزاد_چارت.jpg"
   },
   {
     "name": "سوگند مالی",
@@ -283,7 +283,7 @@
     "engagement": "3.2%",
     "role": "فعال حوزه اقتصاد کلان و طلا",
     "verified": false,
-    "avatar": "avatars/finance_20_سوگند_مالی.svg"
+    "avatar": "avatars/finance_20_سوگند_مالی.jpg"
   },
   {
     "name": "نوید سیگنال",
@@ -294,7 +294,7 @@
     "engagement": "8.2%",
     "role": "فعال حوزه بورس و سهام",
     "verified": true,
-    "avatar": "avatars/finance_21_نوید_سیگنال.svg"
+    "avatar": "avatars/finance_21_نوید_سیگنال.jpg"
   },
   {
     "name": "مهسا آنالیز",
@@ -305,7 +305,7 @@
     "engagement": "4.0%",
     "role": "فعال حوزه سواد مالی و هوش مالی",
     "verified": false,
-    "avatar": "avatars/finance_22_مهسا_آنالیز.svg"
+    "avatar": "avatars/finance_22_مهسا_آنالیز.jpg"
   },
   {
     "name": "بابک دارایی",
@@ -316,7 +316,7 @@
     "engagement": "5.7%",
     "role": "فعال حوزه فارکس و بازارهای جهانی",
     "verified": false,
-    "avatar": "avatars/finance_23_بابک_دارایی.svg"
+    "avatar": "avatars/finance_23_بابک_دارایی.jpg"
   },
   {
     "name": "تینا ترید",
@@ -327,7 +327,7 @@
     "engagement": "8.3%",
     "role": "فعال حوزه سرمایه‌گذاری املاک",
     "verified": false,
-    "avatar": "avatars/finance_24_تینا_ترید.svg"
+    "avatar": "avatars/finance_24_تینا_ترید.jpg"
   },
   {
     "name": "شهرام تریدر",
@@ -338,7 +338,7 @@
     "engagement": "7.4%",
     "role": "فعال حوزه کریپتو و بلاکچین",
     "verified": true,
-    "avatar": "avatars/finance_25_شهرام_تریدر.svg"
+    "avatar": "avatars/finance_25_شهرام_تریدر.jpg"
   },
   {
     "name": "سمیرا بورس",
@@ -349,7 +349,7 @@
     "engagement": "3.5%",
     "role": "فعال حوزه اقتصاد کلان و طلا",
     "verified": false,
-    "avatar": "avatars/finance_26_سمیرا_بورس.svg"
+    "avatar": "avatars/finance_26_سمیرا_بورس.jpg"
   },
   {
     "name": "پیمان هجینگ",
@@ -360,7 +360,7 @@
     "engagement": "8.1%",
     "role": "فعال حوزه بورس و سهام",
     "verified": false,
-    "avatar": "avatars/finance_27_پیمان_هجینگ.svg"
+    "avatar": "avatars/finance_27_پیمان_هجینگ.jpg"
   },
   {
     "name": "مونا فارکس",
@@ -371,7 +371,7 @@
     "engagement": "4.2%",
     "role": "فعال حوزه سواد مالی و هوش مالی",
     "verified": false,
-    "avatar": "avatars/finance_28_مونا_فارکس.svg"
+    "avatar": "avatars/finance_28_مونا_فارکس.jpg"
   },
   {
     "name": "علیرضا بلاکچین",
@@ -382,7 +382,7 @@
     "engagement": "3.7%",
     "role": "فعال حوزه فارکس و بازارهای جهانی",
     "verified": true,
-    "avatar": "avatars/finance_29_علیرضا_بلاکچین.svg"
+    "avatar": "avatars/finance_29_علیرضا_بلاکچین.jpg"
   },
   {
     "name": "ستاره اکونومی",
@@ -393,7 +393,7 @@
     "engagement": "5.1%",
     "role": "فعال حوزه سرمایه‌گذاری املاک",
     "verified": false,
-    "avatar": "avatars/finance_30_ستاره_اکونومی.svg"
+    "avatar": "avatars/finance_30_ستاره_اکونومی.jpg"
   },
   {
     "name": "آرمین ارزدیجیتال",
@@ -404,7 +404,7 @@
     "engagement": "3.4%",
     "role": "فعال حوزه کریپتو و بلاکچین",
     "verified": false,
-    "avatar": "avatars/finance_31_آرمین_ارزدیجیت.svg"
+    "avatar": "avatars/finance_31_آرمین_ارزدیجیت.jpg"
   },
   {
     "name": "پریا طلا",
@@ -415,7 +415,7 @@
     "engagement": "5.9%",
     "role": "فعال حوزه اقتصاد کلان و طلا",
     "verified": false,
-    "avatar": "avatars/finance_32_پریا_طلا.svg"
+    "avatar": "avatars/finance_32_پریا_طلا.jpg"
   },
   {
     "name": "کیان پرایس‌اکشن",
@@ -426,7 +426,7 @@
     "engagement": "4.7%",
     "role": "فعال حوزه بورس و سهام",
     "verified": true,
-    "avatar": "avatars/finance_33_کیان_پرایساکشن.svg"
+    "avatar": "avatars/finance_33_کیان_پرایساکشن.jpg"
   },
   {
     "name": "لاله سبدگردان",
@@ -437,7 +437,7 @@
     "engagement": "4.8%",
     "role": "فعال حوزه سواد مالی و هوش مالی",
     "verified": false,
-    "avatar": "avatars/finance_34_لاله_سبدگردان.svg"
+    "avatar": "avatars/finance_34_لاله_سبدگردان.jpg"
   },
   {
     "name": "سینا تکنیکال",
@@ -448,7 +448,7 @@
     "engagement": "5.8%",
     "role": "فعال حوزه فارکس و بازارهای جهانی",
     "verified": false,
-    "avatar": "avatars/finance_35_سینا_تکنیکال.svg"
+    "avatar": "avatars/finance_35_سینا_تکنیکال.jpg"
   },
   {
     "name": "فرشته سود",
@@ -459,7 +459,7 @@
     "engagement": "7.0%",
     "role": "فعال حوزه سرمایه‌گذاری املاک",
     "verified": false,
-    "avatar": "avatars/finance_36_فرشته_سود.svg"
+    "avatar": "avatars/finance_36_فرشته_سود.jpg"
   },
   {
     "name": "مهرداد فاند",
@@ -470,7 +470,7 @@
     "engagement": "6.2%",
     "role": "فعال حوزه کریپتو و بلاکچین",
     "verified": true,
-    "avatar": "avatars/finance_37_مهرداد_فاند.svg"
+    "avatar": "avatars/finance_37_مهرداد_فاند.jpg"
   },
   {
     "name": "سحر استراتژی",
@@ -481,7 +481,7 @@
     "engagement": "5.8%",
     "role": "فعال حوزه اقتصاد کلان و طلا",
     "verified": false,
-    "avatar": "avatars/finance_38_سحر_استراتژی.svg"
+    "avatar": "avatars/finance_38_سحر_استراتژی.jpg"
   },
   {
     "name": "ارسلان دیفای",
@@ -492,7 +492,7 @@
     "engagement": "3.6%",
     "role": "فعال حوزه بورس و سهام",
     "verified": false,
-    "avatar": "avatars/finance_39_ارسلان_دیفای.svg"
+    "avatar": "avatars/finance_39_ارسلان_دیفای.jpg"
   },
   {
     "name": "بهاره ریسک",
@@ -503,7 +503,7 @@
     "engagement": "6.9%",
     "role": "فعال حوزه سواد مالی و هوش مالی",
     "verified": false,
-    "avatar": "avatars/finance_40_بهاره_ریسک.svg"
+    "avatar": "avatars/finance_40_بهاره_ریسک.jpg"
   },
   {
     "name": "مازیار مارکت",
@@ -514,7 +514,7 @@
     "engagement": "8.3%",
     "role": "فعال حوزه فارکس و بازارهای جهانی",
     "verified": true,
-    "avatar": "avatars/finance_41_مازیار_مارکت.svg"
+    "avatar": "avatars/finance_41_مازیار_مارکت.jpg"
   },
   {
     "name": "غزاله مانی",
@@ -525,7 +525,7 @@
     "engagement": "5.0%",
     "role": "فعال حوزه سرمایه‌گذاری املاک",
     "verified": false,
-    "avatar": "avatars/finance_42_غزاله_مانی.svg"
+    "avatar": "avatars/finance_42_غزاله_مانی.jpg"
   },
   {
     "name": "سروش کدال",
@@ -536,7 +536,7 @@
     "engagement": "6.8%",
     "role": "فعال حوزه کریپتو و بلاکچین",
     "verified": false,
-    "avatar": "avatars/finance_43_سروش_کدال.svg"
+    "avatar": "avatars/finance_43_سروش_کدال.jpg"
   },
   {
     "name": "طناز پرتفوی",
@@ -547,7 +547,7 @@
     "engagement": "8.2%",
     "role": "فعال حوزه اقتصاد کلان و طلا",
     "verified": false,
-    "avatar": "avatars/finance_44_طناز_پرتفوی.svg"
+    "avatar": "avatars/finance_44_طناز_پرتفوی.jpg"
   },
   {
     "name": "همایون آن‌چین",
@@ -558,7 +558,7 @@
     "engagement": "8.1%",
     "role": "فعال حوزه بورس و سهام",
     "verified": true,
-    "avatar": "avatars/finance_45_همایون_آنچین.svg"
+    "avatar": "avatars/finance_45_همایون_آنچین.jpg"
   },
   {
     "name": "رکسانا اکونومیست",
@@ -569,7 +569,7 @@
     "engagement": "4.2%",
     "role": "فعال حوزه سواد مالی و هوش مالی",
     "verified": false,
-    "avatar": "avatars/finance_46_رکسانا_اکونومی.svg"
+    "avatar": "avatars/finance_46_رکسانا_اکونومی.jpg"
   },
   {
     "name": "حمیدرضا چارت",
@@ -580,7 +580,7 @@
     "engagement": "3.7%",
     "role": "فعال حوزه فارکس و بازارهای جهانی",
     "verified": false,
-    "avatar": "avatars/finance_47_حمیدرضا_چارت.svg"
+    "avatar": "avatars/finance_47_حمیدرضا_چارت.jpg"
   },
   {
     "name": "شبنم فایننس",
@@ -591,7 +591,7 @@
     "engagement": "5.9%",
     "role": "فعال حوزه سرمایه‌گذاری املاک",
     "verified": false,
-    "avatar": "avatars/finance_48_شبنم_فایننس.svg"
+    "avatar": "avatars/finance_48_شبنم_فایننس.jpg"
   },
   {
     "name": "مسعود فارکس",
@@ -602,7 +602,7 @@
     "engagement": "3.4%",
     "role": "فعال حوزه کریپتو و بلاکچین",
     "verified": true,
-    "avatar": "avatars/finance_49_مسعود_فارکس.svg"
+    "avatar": "avatars/finance_49_مسعود_فارکس.jpg"
   },
   {
     "name": "فائزه سهامدار",
@@ -613,7 +613,7 @@
     "engagement": "4.9%",
     "role": "فعال حوزه اقتصاد کلان و طلا",
     "verified": false,
-    "avatar": "avatars/finance_50_فائزه_سهامدار.svg"
+    "avatar": "avatars/finance_50_فائزه_سهامدار.jpg"
   },
   {
     "name": "شایان کریپتوکارنسی",
@@ -624,7 +624,7 @@
     "engagement": "4.0%",
     "role": "فعال حوزه بورس و سهام",
     "verified": false,
-    "avatar": "avatars/finance_51_شایان_کریپتوکا.svg"
+    "avatar": "avatars/finance_51_شایان_کریپتوکا.jpg"
   },
   {
     "name": "کتایون هولد",
@@ -635,7 +635,7 @@
     "engagement": "8.3%",
     "role": "فعال حوزه سواد مالی و هوش مالی",
     "verified": false,
-    "avatar": "avatars/finance_52_کتایون_هولد.svg"
+    "avatar": "avatars/finance_52_کتایون_هولد.jpg"
   },
   {
     "name": "وحید بورس‌باز",
@@ -646,7 +646,7 @@
     "engagement": "7.5%",
     "role": "فعال حوزه فارکس و بازارهای جهانی",
     "verified": true,
-    "avatar": "avatars/finance_53_وحید_بورسباز.svg"
+    "avatar": "avatars/finance_53_وحید_بورسباز.jpg"
   },
   {
     "name": "لیلا توکن",
@@ -657,7 +657,7 @@
     "engagement": "8.5%",
     "role": "فعال حوزه سرمایه‌گذاری املاک",
     "verified": false,
-    "avatar": "avatars/finance_54_لیلا_توکن.svg"
+    "avatar": "avatars/finance_54_لیلا_توکن.jpg"
   },
   {
     "name": "امیرحسین ویژن",
@@ -668,7 +668,7 @@
     "engagement": "8.1%",
     "role": "فعال حوزه کریپتو و بلاکچین",
     "verified": false,
-    "avatar": "avatars/finance_55_امیرحسین_ویژن.svg"
+    "avatar": "avatars/finance_55_امیرحسین_ویژن.jpg"
   },
   {
     "name": "هانیه ماکرو",
@@ -679,7 +679,7 @@
     "engagement": "5.6%",
     "role": "فعال حوزه اقتصاد کلان و طلا",
     "verified": false,
-    "avatar": "avatars/finance_56_هانیه_ماکرو.svg"
+    "avatar": "avatars/finance_56_هانیه_ماکرو.jpg"
   },
   {
     "name": "مهدی سرمایه‌پژوه",
@@ -690,7 +690,7 @@
     "engagement": "7.1%",
     "role": "فعال حوزه بورس و سهام",
     "verified": true,
-    "avatar": "avatars/finance_57_مهدی_سرمایهپژو.svg"
+    "avatar": "avatars/finance_57_مهدی_سرمایهپژو.jpg"
   },
   {
     "name": "پریناز هوش‌اقتصادی",
@@ -701,7 +701,7 @@
     "engagement": "3.5%",
     "role": "فعال حوزه سواد مالی و هوش مالی",
     "verified": false,
-    "avatar": "avatars/finance_58_پریناز_هوشاقتص.svg"
+    "avatar": "avatars/finance_58_پریناز_هوشاقتص.jpg"
   },
   {
     "name": "بهنام فیوچرز",
@@ -712,7 +712,7 @@
     "engagement": "4.0%",
     "role": "فعال حوزه فارکس و بازارهای جهانی",
     "verified": false,
-    "avatar": "avatars/finance_59_بهنام_فیوچرز.svg"
+    "avatar": "avatars/finance_59_بهنام_فیوچرز.jpg"
   },
   {
     "name": "افسانه ترند",
@@ -723,7 +723,7 @@
     "engagement": "8.3%",
     "role": "فعال حوزه سرمایه‌گذاری املاک",
     "verified": false,
-    "avatar": "avatars/finance_60_افسانه_ترند.svg"
+    "avatar": "avatars/finance_60_افسانه_ترند.jpg"
   },
   {
     "name": "سام والت‌دار",
@@ -734,7 +734,7 @@
     "engagement": "5.3%",
     "role": "فعال حوزه کریپتو و بلاکچین",
     "verified": true,
-    "avatar": "avatars/finance_61_سام_والتدار.svg"
+    "avatar": "avatars/finance_61_سام_والتدار.jpg"
   },
   {
     "name": "صبا تحلیلگر",
@@ -745,7 +745,7 @@
     "engagement": "5.2%",
     "role": "فعال حوزه اقتصاد کلان و طلا",
     "verified": false,
-    "avatar": "avatars/finance_62_صبا_تحلیلگر.svg"
+    "avatar": "avatars/finance_62_صبا_تحلیلگر.jpg"
   },
   {
     "name": "پدرام اقتصاددان",
@@ -756,7 +756,7 @@
     "engagement": "5.2%",
     "role": "فعال حوزه بورس و سهام",
     "verified": false,
-    "avatar": "avatars/finance_63_پدرام_اقتصاددا.svg"
+    "avatar": "avatars/finance_63_پدرام_اقتصاددا.jpg"
   },
   {
     "name": "نسیم کریپتو",
@@ -767,7 +767,7 @@
     "engagement": "8.1%",
     "role": "فعال حوزه سواد مالی و هوش مالی",
     "verified": false,
-    "avatar": "avatars/finance_64_نسیم_کریپتو.svg"
+    "avatar": "avatars/finance_64_نسیم_کریپتو.jpg"
   },
   {
     "name": "کیوان سودآور",
@@ -778,7 +778,7 @@
     "engagement": "7.7%",
     "role": "فعال حوزه فارکس و بازارهای جهانی",
     "verified": true,
-    "avatar": "avatars/finance_65_کیوان_سودآور.svg"
+    "avatar": "avatars/finance_65_کیوان_سودآور.jpg"
   },
   {
     "name": "فرناز دی‌سی‌ای",
@@ -789,7 +789,7 @@
     "engagement": "3.9%",
     "role": "فعال حوزه سرمایه‌گذاری املاک",
     "verified": false,
-    "avatar": "avatars/finance_66_فرناز_دیسیای.svg"
+    "avatar": "avatars/finance_66_فرناز_دیسیای.jpg"
   },
   {
     "name": "مصطفی فارکس‌کلاب",
@@ -800,7 +800,7 @@
     "engagement": "6.4%",
     "role": "فعال حوزه کریپتو و بلاکچین",
     "verified": false,
-    "avatar": "avatars/finance_67_مصطفی_فارکسکلا.svg"
+    "avatar": "avatars/finance_67_مصطفی_فارکسکلا.jpg"
   },
   {
     "name": "عسل بورس",
@@ -811,7 +811,7 @@
     "engagement": "6.9%",
     "role": "فعال حوزه اقتصاد کلان و طلا",
     "verified": false,
-    "avatar": "avatars/finance_68_عسل_بورس.svg"
+    "avatar": "avatars/finance_68_عسل_بورس.jpg"
   },
   {
     "name": "یاشار ترندینگ",
@@ -822,7 +822,7 @@
     "engagement": "6.5%",
     "role": "فعال حوزه بورس و سهام",
     "verified": true,
-    "avatar": "avatars/finance_69_یاشار_ترندینگ.svg"
+    "avatar": "avatars/finance_69_یاشار_ترندینگ.jpg"
   },
   {
     "name": "سپیده فیوچرز",
@@ -833,7 +833,7 @@
     "engagement": "4.8%",
     "role": "فعال حوزه سواد مالی و هوش مالی",
     "verified": false,
-    "avatar": "avatars/finance_70_سپیده_فیوچرز.svg"
+    "avatar": "avatars/finance_70_سپیده_فیوچرز.jpg"
   },
   {
     "name": "سیاوش کریپتو",
@@ -844,7 +844,7 @@
     "engagement": "5.9%",
     "role": "فعال حوزه فارکس و بازارهای جهانی",
     "verified": false,
-    "avatar": "avatars/finance_71_سیاوش_کریپتو.svg"
+    "avatar": "avatars/finance_71_سیاوش_کریپتو.jpg"
   },
   {
     "name": "مهتا فایننس",
@@ -855,7 +855,7 @@
     "engagement": "6.1%",
     "role": "فعال حوزه سرمایه‌گذاری املاک",
     "verified": false,
-    "avatar": "avatars/finance_72_مهتا_فایننس.svg"
+    "avatar": "avatars/finance_72_مهتا_فایننس.jpg"
   },
   {
     "name": "بردیا اینوست",
@@ -866,7 +866,7 @@
     "engagement": "5.2%",
     "role": "فعال حوزه کریپتو و بلاکچین",
     "verified": true,
-    "avatar": "avatars/finance_73_بردیا_اینوست.svg"
+    "avatar": "avatars/finance_73_بردیا_اینوست.jpg"
   },
   {
     "name": "روژین پرتفوی",
@@ -877,7 +877,7 @@
     "engagement": "6.4%",
     "role": "فعال حوزه اقتصاد کلان و طلا",
     "verified": false,
-    "avatar": "avatars/finance_74_روژین_پرتفوی.svg"
+    "avatar": "avatars/finance_74_روژین_پرتفوی.jpg"
   },
   {
     "name": "داریوش تحلیل",
@@ -888,7 +888,7 @@
     "engagement": "8.3%",
     "role": "فعال حوزه بورس و سهام",
     "verified": false,
-    "avatar": "avatars/finance_75_داریوش_تحلیل.svg"
+    "avatar": "avatars/finance_75_داریوش_تحلیل.jpg"
   },
   {
     "name": "سیمین سرمایه‌ساز",
@@ -899,7 +899,7 @@
     "engagement": "4.2%",
     "role": "فعال حوزه سواد مالی و هوش مالی",
     "verified": false,
-    "avatar": "avatars/finance_76_سیمین_سرمایهسا.svg"
+    "avatar": "avatars/finance_76_سیمین_سرمایهسا.jpg"
   },
   {
     "name": "فرزین نوسان",
@@ -910,7 +910,7 @@
     "engagement": "5.8%",
     "role": "فعال حوزه فارکس و بازارهای جهانی",
     "verified": true,
-    "avatar": "avatars/finance_77_فرزین_نوسان.svg"
+    "avatar": "avatars/finance_77_فرزین_نوسان.jpg"
   },
   {
     "name": "آوا کوین",
@@ -921,7 +921,7 @@
     "engagement": "5.8%",
     "role": "فعال حوزه سرمایه‌گذاری املاک",
     "verified": false,
-    "avatar": "avatars/finance_78_آوا_کوین.svg"
+    "avatar": "avatars/finance_78_آوا_کوین.jpg"
   },
   {
     "name": "شروین متاتریدر",
@@ -932,7 +932,7 @@
     "engagement": "5.8%",
     "role": "فعال حوزه کریپتو و بلاکچین",
     "verified": false,
-    "avatar": "avatars/finance_79_شروین_متاتریدر.svg"
+    "avatar": "avatars/finance_79_شروین_متاتریدر.jpg"
   },
   {
     "name": "مروارید والت",
@@ -943,7 +943,7 @@
     "engagement": "4.4%",
     "role": "فعال حوزه اقتصاد کلان و طلا",
     "verified": false,
-    "avatar": "avatars/finance_80_مروارید_والت.svg"
+    "avatar": "avatars/finance_80_مروارید_والت.jpg"
   },
   {
     "name": "پویان اقتصادنما",
@@ -954,7 +954,7 @@
     "engagement": "3.7%",
     "role": "فعال حوزه بورس و سهام",
     "verified": true,
-    "avatar": "avatars/finance_81_پویان_اقتصادنم.svg"
+    "avatar": "avatars/finance_81_پویان_اقتصادنم.jpg"
   },
   {
     "name": "شهروز آربیتراژ",
@@ -965,7 +965,7 @@
     "engagement": "5.1%",
     "role": "فعال حوزه سواد مالی و هوش مالی",
     "verified": false,
-    "avatar": "avatars/finance_82_شهروز_آربیتراژ.svg"
+    "avatar": "avatars/finance_82_شهروز_آربیتراژ.jpg"
   },
   {
     "name": "آیدا ماینینگ",
@@ -976,7 +976,7 @@
     "engagement": "4.4%",
     "role": "فعال حوزه فارکس و بازارهای جهانی",
     "verified": false,
-    "avatar": "avatars/finance_83_آیدا_ماینینگ.svg"
+    "avatar": "avatars/finance_83_آیدا_ماینینگ.jpg"
   },
   {
     "name": "فرهنگ توکنومیکس",
@@ -987,7 +987,7 @@
     "engagement": "5.0%",
     "role": "فعال حوزه سرمایه‌گذاری املاک",
     "verified": false,
-    "avatar": "avatars/finance_84_فرهنگ_توکنومیک.svg"
+    "avatar": "avatars/finance_84_فرهنگ_توکنومیک.jpg"
   },
   {
     "name": "کیانا کش‌فلو",
@@ -998,7 +998,7 @@
     "engagement": "5.8%",
     "role": "فعال حوزه کریپتو و بلاکچین",
     "verified": true,
-    "avatar": "avatars/finance_85_کیانا_کشفلو.svg"
+    "avatar": "avatars/finance_85_کیانا_کشفلو.jpg"
   },
   {
     "name": "پرهام سهام‌یاب",
@@ -1009,7 +1009,7 @@
     "engagement": "7.1%",
     "role": "فعال حوزه اقتصاد کلان و طلا",
     "verified": false,
-    "avatar": "avatars/finance_86_پرهام_سهامیاب.svg"
+    "avatar": "avatars/finance_86_پرهام_سهامیاب.jpg"
   },
   {
     "name": "ملیکا استیکینگ",
@@ -1020,7 +1020,7 @@
     "engagement": "3.7%",
     "role": "فعال حوزه بورس و سهام",
     "verified": false,
-    "avatar": "avatars/finance_87_ملیکا_استیکینگ.svg"
+    "avatar": "avatars/finance_87_ملیکا_استیکینگ.jpg"
   },
   {
     "name": "کیارش صندوق",
@@ -1031,7 +1031,7 @@
     "engagement": "6.6%",
     "role": "فعال حوزه سواد مالی و هوش مالی",
     "verified": false,
-    "avatar": "avatars/finance_88_کیارش_صندوق.svg"
+    "avatar": "avatars/finance_88_کیارش_صندوق.jpg"
   },
   {
     "name": "درسا مارجین",
@@ -1042,7 +1042,7 @@
     "engagement": "4.3%",
     "role": "فعال حوزه فارکس و بازارهای جهانی",
     "verified": true,
-    "avatar": "avatars/finance_89_درسا_مارجین.svg"
+    "avatar": "avatars/finance_89_درسا_مارجین.jpg"
   },
   {
     "name": "رامین وب۳",
@@ -1053,7 +1053,7 @@
     "engagement": "6.0%",
     "role": "فعال حوزه سرمایه‌گذاری املاک",
     "verified": false,
-    "avatar": "avatars/finance_90_رامین_وب۳.svg"
+    "avatar": "avatars/finance_90_رامین_وب۳.jpg"
   },
   {
     "name": "پانته‌آ لجر",
@@ -1064,7 +1064,7 @@
     "engagement": "7.8%",
     "role": "فعال حوزه کریپتو و بلاکچین",
     "verified": false,
-    "avatar": "avatars/finance_91_پانتهآ_لجر.svg"
+    "avatar": "avatars/finance_91_پانتهآ_لجر.jpg"
   },
   {
     "name": "مانی دارایی",
@@ -1075,7 +1075,7 @@
     "engagement": "7.8%",
     "role": "فعال حوزه اقتصاد کلان و طلا",
     "verified": false,
-    "avatar": "avatars/finance_92_مانی_دارایی.svg"
+    "avatar": "avatars/finance_92_مانی_دارایی.jpg"
   },
   {
     "name": "شقایق بلاک",
@@ -1086,7 +1086,7 @@
     "engagement": "7.2%",
     "role": "فعال حوزه بورس و سهام",
     "verified": true,
-    "avatar": "avatars/finance_93_شقایق_بلاک.svg"
+    "avatar": "avatars/finance_93_شقایق_بلاک.jpg"
   },
   {
     "name": "سهراب فاندینگ",
@@ -1097,6 +1097,6 @@
     "engagement": "5.9%",
     "role": "فعال حوزه سواد مالی و هوش مالی",
     "verified": false,
-    "avatar": "avatars/finance_94_سهراب_فاندینگ.svg"
+    "avatar": "avatars/finance_94_سهراب_فاندینگ.jpg"
   }
 ]
