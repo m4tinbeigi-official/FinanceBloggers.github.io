@@ -1,0 +1,34 @@
+[
+  {
+    "name": "محمد حسینی (اقتصاد کلان)",
+    "handle": "hosseini_finance",
+    "category": "اقتصاد کلان و طلا",
+    "role": "تحلیل‌گر بازارهای موازی",
+    "bio": "تحلیل روندهای تورمی، پیش‌بینی بازار مسکن، طلا و مدیریت سرمایه.",
+    "avatar": "avatars/hosseini_finance.jpg"
+  },
+  {
+    "name": "کریپتو آرش (Crypto Arash)",
+    "handle": "crypto_arash",
+    "category": "کریپتو و بلاکچین",
+    "role": "تحلیل‌گر رمزارز",
+    "bio": "تحلیل آن‌چین، معرفی توکن‌های زیرساختی و بررسی اکوسیستم دیفای.",
+    "avatar": "avatars/crypto_arash.jpg"
+  },
+  {
+    "name": "رضا خانکی (بورس ایران)",
+    "handle": "khanaki_finance",
+    "category": "بورس و سهام",
+    "role": "کارشناس ارشد بازار سرمایه",
+    "bio": "تحلیل صورت‌های مالی، گزارش‌های کدال و ارزندگی صنایع بورسی.",
+    "avatar": "avatars/khanaki_finance.jpg"
+  },
+  {
+    "name": "سواد مالی برای همه",
+    "handle": "money_smart_fa",
+    "category": "سواد مالی",
+    "role": "آموزش هوش مالی",
+    "bio": "آموزش اصول بودجه‌بندی، پس‌انداز هوشمند و رهایی از تله‌های مالی.",
+    "avatar": "avatars/money_smart_fa.jpg"
+  }
+]
